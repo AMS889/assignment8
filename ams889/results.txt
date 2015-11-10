@@ -1,0 +1,4 @@
+position 1, mean = 0.0284, std = 0.99959663865
+position 10, mean = 0.01546, std = 0.318617307126
+position 100, mean = 0.020802, std = 0.100349174366
+position 1000, mean = 0.0201602, std = 0.0316003470861
